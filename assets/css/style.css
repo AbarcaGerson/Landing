@@ -101,7 +101,7 @@ h2.section-title-heading {
 /* ============ HERO =============== */
 
 #hero {
-    background-image: linear-gradient(to right, rgba(0,172,217, 0.62), rgba(105,240,174, 0.52)), url('../img/fondo1.jpg');
+    background-image: linear-gradient(to right, rgba(0,172,217, 0.62), rgba(105,240,174, 0.52)), url('../img/fondo2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 8rem;
@@ -447,7 +447,7 @@ h2.section-title-heading {
 }
 
 #footer .footer-logo img {
-    width: 30%;
+    width: 70%;
 }
 
 #img-center {
